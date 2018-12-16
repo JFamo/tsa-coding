@@ -6,7 +6,7 @@ It is desirable to buy the item or items with the lowest unit price. First, prom
 ## Testing
 Input | Expected Output
 ------------ | -------------
-*Number of items: 4 *Weight1: 12 *Cost1: 5.55 | $0.22
+Number of items: 4 <br>Weight1: 12 <br>Cost1: 5.55 | $0.22
 QQQNNDDPDNDQ | $1.56
 DBADSMD | $0.30
 42056 | $0.00
